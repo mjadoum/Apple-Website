@@ -1,0 +1,210 @@
+
+
+
+.navbar-text {
+    text-align: center;
+    margin-left: 32%;
+    font-size: 15px;
+}
+.read{
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-left: 45%;
+    margin-top: 20px;
+}
+.navbar-text1 {
+    text-align: center;
+    margin-left: 31.3%;
+    color: white;
+}
+.navbar-text2{
+    height: 60px;
+    padding-top: 7px;
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+.text3{
+    
+}
+
+.ph-slid {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.d-block {
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.navbar-brand {
+    padding-right: 60px;
+    padding-left: 70px;
+}
+
+.nav-item {
+    padding-right: 60px;
+    font-size: 14px;
+}
+
+
+
+.read {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.imgbg1 {
+    width: 80%;
+    height: 80%;
+    margin-left: 103px;
+    margin-right: 32px;
+}
+
+.imgbg2 {
+    width: 80%;
+    height: 80%;
+}
+
+.navbar-nav {
+    margin-left: 45px;
+}
+.ads{
+   width: 100%;
+    margin-left:-11%;
+}
+
+.p-footer{
+    text-align: center;
+    color: white;
+    
+}
+.top{
+    padding:5px;
+    margin-top: 4px;
+    margin-left: 40%;
+}
+@media only screen and (max-width: 762px) {
+    .cards-img {
+
+        margin-left: 18%;
+        margin-top: 5%;
+        margin-right: 0%;
+        margin-bottom: 5%;
+    }
+
+    .navbar-text2 {
+        text-align: center;
+        font-size: 13px;
+    }
+
+    .jumbotron {
+        border-radius: 0px;
+    }
+
+    .cards-img {
+        margin-left: 30px;
+
+    }
+
+    .navbar-brand {
+        font-size: 33px;
+        padding-left: 50px;
+    }
+
+    .navbar-text1 {
+        text-align: center;
+        margin-left:16%;
+        color: white;
+        font-size: 12px;
+    }
+
+    .text3 {
+        font-size: 12px;
+       text-align: center;
+      
+        
+    }
+
+    .imgbg1 {
+        max-width: 30rem;
+
+        margin-left: 30px;
+        margin-bottom: 30px;
+
+    }
+
+    .imgbg2 {
+        max-width: 30rem;
+        margin-left: 30px;
+    }
+
+    .read {
+        padding-right: 40px;
+        padding-left: 40px;
+        margin-top: 20px;
+        margin-left: 33%;
+
+    }
+
+    .navbar-text {
+        text-align: center;
+        margin-left: 15px;
+        font-size: 13px;
+    }
+
+    .navbar-text2 {
+        text-align: center;
+        height: 63px;
+        margin-left: 15px;
+    }
+
+    .shop {
+        margin-left: 5%;
+    }
+
+    .display-4 {
+        text-align: center;
+        margin-left: 10px;
+        font-size: 30px;
+    }
+
+    .ppadding {
+        text-align: justify !important;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .p-footer {
+        font-size: 14px;
+        margin-left: 25px;
+        padding-top: 10px;
+        text-align: center;
+    }
+
+    .navbar-nav {
+        margin-left: 45px;
+    }
+
+    .top {
+        padding: 5px;
+        float: right;
+        font-size: 10;
+        margin-top: -40px;
+
+    }
+
+    .ads {
+        max-width: 25rem;
+        margin-left: 0%;
+    }
+
+    .card {
+        max-width: 25rem;
+        margin-left: 20%;
+    }
+}
